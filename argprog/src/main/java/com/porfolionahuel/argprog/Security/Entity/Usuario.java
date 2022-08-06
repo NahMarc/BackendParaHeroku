@@ -19,10 +19,7 @@ import javax.validation.constraints.NotNull;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author monch
- */
+
 @Entity
 public class Usuario {
     @Id

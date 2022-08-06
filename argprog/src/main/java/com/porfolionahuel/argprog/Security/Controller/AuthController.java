@@ -34,8 +34,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/auth")
-@CrossOrigin(origins = "http://localhost:4200")
-// era CrossOrigin solo (origins = "*", allowedHeaders = "*") agregado para intentar arreglar cors
+@CrossOrigin(origins = "https://host-angular-portfolio-nahuel.web.app")
+
 public class AuthController {
     @Autowired
     PasswordEncoder passwordEncoder;

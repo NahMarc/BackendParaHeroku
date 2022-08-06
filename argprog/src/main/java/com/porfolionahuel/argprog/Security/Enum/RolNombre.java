@@ -5,10 +5,7 @@ package com.porfolionahuel.argprog.Security.Enum;
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-/**
- *
- * @author monch
- */
+
 public enum RolNombre {
     ROLE_ADMIN, ROLE_USER 
 }
