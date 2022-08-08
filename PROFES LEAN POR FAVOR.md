@@ -23,3 +23,5 @@ PD2: Gracias a la orientación del profe Leandro Giménez a cargo de mi grupo de
 https://deployargprog-nahuel.herokuapp.com/
 La conexión como la base de datos de clevercloud está vacía el front no trae ningún dato, supongo que de eso se encargan uds. o díganme cómo hacerlo bien (por algo nos pidieron el script sql cargado en alguno de los repositorios, el mío está en el enlace del repo frontend)
 
+PD 3: A día 7 de agosto puedo decir que ya pude cargar los datos a mi base de datos y solucioné todos los inconvenientes graves y dejé mi página funcionando tal como planeaba presentarla el 31 de Julio, no sé si voy a recursar al final pero desde ya gracias a todos los que trabajan en ArgProg y en especial al profesor Leandro por todo su apoyo.
+
